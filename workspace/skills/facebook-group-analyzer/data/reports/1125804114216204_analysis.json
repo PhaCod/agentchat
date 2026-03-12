@@ -1,0 +1,659 @@
+{
+  "group_id": "1125804114216204",
+  "analyzed_at": "2026-03-05T06:48:28.766518+00:00",
+  "total_posts": 500,
+  "posts_with_content": 198,
+  "posts_excluded_from_text_analysis": 302,
+  "date_range": {
+    "_note": "Most or all posts have empty timestamp; range unavailable."
+  },
+  "sentiment": {
+    "positive": 41,
+    "neutral": 154,
+    "negative": 3,
+    "distribution_pct": {
+      "positive": 20.7,
+      "neutral": 77.8,
+      "negative": 1.5
+    }
+  },
+  "top_keywords": [
+    {
+      "keyword": "mua",
+      "count": 20
+    },
+    {
+      "keyword": "nhà",
+      "count": 17
+    },
+    {
+      "keyword": "người",
+      "count": 10
+    },
+    {
+      "keyword": "nhân",
+      "count": 9
+    },
+    {
+      "keyword": "con",
+      "count": 9
+    },
+    {
+      "keyword": "tới",
+      "count": 9
+    },
+    {
+      "keyword": "bán",
+      "count": 9
+    },
+    {
+      "keyword": "coi",
+      "count": 9
+    },
+    {
+      "keyword": "chạy",
+      "count": 8
+    },
+    {
+      "keyword": "lắm",
+      "count": 8
+    },
+    {
+      "keyword": "công",
+      "count": 8
+    },
+    {
+      "keyword": "tiền",
+      "count": 8
+    },
+    {
+      "keyword": "đẹp",
+      "count": 8
+    },
+    {
+      "keyword": "gia",
+      "count": 7
+    },
+    {
+      "keyword": "xin",
+      "count": 7
+    },
+    {
+      "keyword": "hơn",
+      "count": 7
+    },
+    {
+      "keyword": "tâm",
+      "count": 7
+    },
+    {
+      "keyword": "sau",
+      "count": 7
+    },
+    {
+      "keyword": "toàn",
+      "count": 7
+    },
+    {
+      "keyword": "giao",
+      "count": 6
+    },
+    {
+      "keyword": "khách",
+      "count": 6
+    },
+    {
+      "keyword": "học",
+      "count": 6
+    },
+    {
+      "keyword": "thị",
+      "count": 6
+    },
+    {
+      "keyword": "chủ",
+      "count": 6
+    },
+    {
+      "keyword": "chưa",
+      "count": 6
+    },
+    {
+      "keyword": "xem",
+      "count": 6
+    },
+    {
+      "keyword": "đường",
+      "count": 6
+    },
+    {
+      "keyword": "lun",
+      "count": 6
+    },
+    {
+      "keyword": "chỗ",
+      "count": 6
+    },
+    {
+      "keyword": "nhìn",
+      "count": 6
+    }
+  ],
+  "topics": [
+    {
+      "topic": "Khác",
+      "post_count": 155,
+      "pct": 78.3
+    },
+    {
+      "topic": "Hỏi giá / Mua bán",
+      "post_count": 31,
+      "pct": 15.7
+    },
+    {
+      "topic": "Hỏi đáp / Tư vấn",
+      "post_count": 7,
+      "pct": 3.5
+    },
+    {
+      "topic": "Quảng cáo / Spam",
+      "post_count": 2,
+      "pct": 1.0
+    },
+    {
+      "topic": "Cộng đồng / Kết nối",
+      "post_count": 1,
+      "pct": 0.5
+    },
+    {
+      "topic": "Giải trí / Hài hước",
+      "post_count": 1,
+      "pct": 0.5
+    },
+    {
+      "topic": "Review / Feedback",
+      "post_count": 1,
+      "pct": 0.5
+    }
+  ],
+  "spam_posts_count": 0,
+  "spam_post_ids": [],
+  "engagement": {
+    "avg_reactions": 15.3,
+    "avg_comments": 4.0,
+    "avg_shares": 0.0,
+    "top_posts": [
+      {
+        "post_id": "4344828268980423",
+        "author": "Unknown",
+        "content_preview": "T đang bán lun á má. Khuất tất gì, mua đi má, năm nay toàn mẫu đẹp",
+        "reactions": 989,
+        "comments_count": 1,
+        "shares_count": 0,
+        "timestamp": "Thiên Lý",
+        "post_url": "https://www.facebook.com/groups/riviu.official/posts/4344828268980423"
+      },
+      {
+        "post_id": "4343508529112397",
+        "author": "Unknown",
+        "content_preview": "Mấy đứa kêu t seeding bẩn thì cũng đánh giá cao t quá rồi cảm ơn nha, mình lại chỗ nào lãnh lương vậy mn",
+        "reactions": 945,
+        "comments_count": 1,
+        "shares_count": 0,
+        "timestamp": "Ngựa Non Háu Đá",
+        "post_url": "https://www.facebook.com/groups/riviu.official/posts/4343508529112397"
+      },
+      {
+        "post_id": "4351163238346926",
+        "author": "Unknown",
+        "content_preview": "M xui sẵn r m đổ thừa ng ta hả",
+        "reactions": 665,
+        "comments_count": 4,
+        "shares_count": 0,
+        "timestamp": "Huang Hai",
+        "post_url": "https://www.facebook.com/groups/riviu.official/posts/4351163238346926"
+      },
+      {
+        "post_id": "4340680366061880",
+        "author": "Unknown",
+        "content_preview": "Tưởng cua đc gái là do mình tài giỏi",
+        "reactions": 582,
+        "comments_count": 1,
+        "shares_count": 0,
+        "timestamp": "Đình Khải",
+        "post_url": "https://www.facebook.com/groups/riviu.official/posts/4340680366061880"
+      },
+      {
+        "post_id": "4352067314923185",
+        "author": "Unknown",
+        "content_preview": "Bánh ướt lòng gà \n, ở sg quen ăn bánh nóng, lên ăn bánh ướt lạnh ngắt ko ăn đc",
+        "reactions": 428,
+        "comments_count": 3,
+        "shares_count": 0,
+        "timestamp": "Ngọc Nga",
+        "post_url": "https://www.facebook.com/groups/riviu.official/posts/4352067314923185"
+      },
+      {
+        "post_id": "4352094964920420",
+        "author": "Unknown",
+        "content_preview": "Công đức vô dụng",
+        "reactions": 390,
+        "comments_count": 3,
+        "shares_count": 0,
+        "timestamp": "Lê Văn Minh",
+        "post_url": "https://www.facebook.com/groups/riviu.official/posts/4352094964920420"
+      },
+      {
+        "post_id": "4352491581547425",
+        "author": "Unknown",
+        "content_preview": "Lại cái văn xạo l a chưa xài tider bao giờ r chụp gửi qua làm trò dụ con ng ta đi nắc chứ gì =))))",
+        "reactions": 364,
+        "comments_count": 3,
+        "shares_count": 0,
+        "timestamp": "Lê Nguyễn Thịnh Phát",
+        "post_url": "https://www.facebook.com/groups/riviu.official/posts/4352491581547425"
+      },
+      {
+        "post_id": "4354858687977381",
+        "author": "Unknown",
+        "content_preview": "nếu chỉ có bảng nhường, không có vạch ưu tiên rẽ liên tục này thì có quyền nhường hoặc không, còn nếu có vạch ưu tiên nà",
+        "reactions": 340,
+        "comments_count": 1,
+        "shares_count": 0,
+        "timestamp": "Huỳnh Thanh Toàn",
+        "post_url": "https://www.facebook.com/groups/riviu.official/posts/4354858687977381"
+      },
+      {
+        "post_id": "4342522602544323",
+        "author": "Unknown",
+        "content_preview": "Mình là kiểu người trên, cá nhân mình thì có những lí do sau:",
+        "reactions": 265,
+        "comments_count": 1,
+        "shares_count": 0,
+        "timestamp": "Anonymous participant 568",
+        "post_url": "https://www.facebook.com/groups/riviu.official/posts/4342522602544323"
+      },
+      {
+        "post_id": "4346732052123378",
+        "author": "Unknown",
+        "content_preview": "Trong ngành nói luôn : chỉ tiêm trừ khi quá nhiều khuyết điểm ( rãnh cười sâu , má ,thái dương hóp ) và khi tiêm xác địn",
+        "reactions": 263,
+        "comments_count": 1,
+        "shares_count": 0,
+        "timestamp": "HappyLemur3995",
+        "post_url": "https://www.facebook.com/groups/riviu.official/posts/4346732052123378"
+      }
+    ],
+    "best_hours": [],
+    "content_type_breakdown": {
+      "text": {
+        "count": 500,
+        "avg_reactions": 15.3
+      }
+    }
+  },
+  "trends": {},
+  "pain_points": {
+    "total_pain_posts": 10,
+    "category_breakdown": {
+      "frustration": {
+        "count": 35,
+        "pct": 17.7
+      },
+      "comparison": {
+        "count": 3,
+        "pct": 1.5
+      },
+      "need_help": {
+        "count": 2,
+        "pct": 1.0
+      }
+    },
+    "top_pain_posts": [
+      {
+        "post_id": "4352491581547425",
+        "author": "Unknown",
+        "post_url": "https://www.facebook.com/groups/riviu.official/posts/4352491581547425",
+        "preview": "Lại cái văn xạo l a chưa xài tider bao giờ r chụp gửi qua làm trò dụ con ng ta đi nắc chứ gì =))))",
+        "pain_score": 0.33,
+        "pain_categories": [
+          "frustration"
+        ],
+        "reactions": 364,
+        "comments_count": 3
+      },
+      {
+        "post_id": "4354858687977381",
+        "author": "Unknown",
+        "post_url": "https://www.facebook.com/groups/riviu.official/posts/4354858687977381",
+        "preview": "nếu chỉ có bảng nhường, không có vạch ưu tiên rẽ liên tục này thì có quyền nhường hoặc không, còn nếu có vạch ưu tiên này mà v… See more",
+        "pain_score": 0.33,
+        "pain_categories": [
+          "frustration"
+        ],
+        "reactions": 340,
+        "comments_count": 1
+      },
+      {
+        "post_id": "4341591185970798",
+        "author": "Unknown",
+        "post_url": "https://www.facebook.com/groups/riviu.official/posts/4341591185970798",
+        "preview": "Bài hát này bên Trung nói về tình cảm một bạn nữ dành cho một bạn nữ khác. Giống như kiểu bạn học ở cùng ký túc xá vậy kiểu ở … See more",
+        "pain_score": 0.67,
+        "pain_categories": [
+          "frustration",
+          "comparison"
+        ],
+        "reactions": 100,
+        "comments_count": 1
+      },
+      {
+        "post_id": "4354607214669195",
+        "author": "Unknown",
+        "post_url": "https://www.facebook.com/groups/riviu.official/posts/4354607214669195",
+        "preview": "Tui hỏi thiệt mấy cô gái, gửi hình cho bồ với câu nói như vậy để làm gì nếu ko có ý đòi mua? (Không bàn chuyện đào mỏ hay ý ki… See more",
+        "pain_score": 0.67,
+        "pain_categories": [
+          "frustration",
+          "comparison"
+        ],
+        "reactions": 44,
+        "comments_count": 1
+      },
+      {
+        "post_id": "4356209501175633",
+        "author": "Unknown",
+        "post_url": "https://www.facebook.com/groups/riviu.official/posts/4356209501175633",
+        "preview": "Vì những người như vậy thường có đầu óc linh hoạt và có tài ăn nói, những ng như vậy thường ghi điểm trong mắt khách hàng, đối… See more",
+        "pain_score": 0.67,
+        "pain_categories": [
+          "frustration",
+          "comparison"
+        ],
+        "reactions": 19,
+        "comments_count": 11
+      },
+      {
+        "post_id": "4293838657412718",
+        "author": "Unknown",
+        "post_url": "https://www.facebook.com/groups/riviu.official/posts/4293838657412718",
+        "preview": "T triệt nách vĩnh viễn 4tr không tips. Tới 3 lần thôi hết muốn mọc rồi hơn nửa năm chưa đi lại nữa",
+        "pain_score": 0.33,
+        "pain_categories": [
+          "frustration"
+        ],
+        "reactions": 61,
+        "comments_count": 7
+      },
+      {
+        "post_id": "4344367399026510",
+        "author": "Unknown",
+        "post_url": "https://www.facebook.com/groups/riviu.official/posts/4344367399026510",
+        "preview": "Mình đã từng apply nhân viên bán hàng và phỏng vấn luôn rồi nhưng phỏng vấn xong thấy không ổn nên thôi né luôn.",
+        "pain_score": 0.33,
+        "pain_categories": [
+          "frustration"
+        ],
+        "reactions": 58,
+        "comments_count": 1
+      },
+      {
+        "post_id": "3810761202387135",
+        "author": "Unknown",
+        "post_url": "https://www.facebook.com/groups/riviu.official/posts/3810761202387135",
+        "preview": "Tuyển quanh năm suốt tháng , rớt phỏng vấn gọi đi phỏng vấn tiếp , ủa",
+        "pain_score": 0.33,
+        "pain_categories": [
+          "frustration"
+        ],
+        "reactions": 52,
+        "comments_count": 1
+      },
+      {
+        "post_id": "4340824242714159",
+        "author": "Unknown",
+        "post_url": "https://www.facebook.com/groups/riviu.official/posts/4340824242714159",
+        "preview": "Bà lo cỡ đó thôi bà kiếm trai tân bà yêu rồi cưới cho nhẹ đầu,tui nói thiệt chưa cưới mà đã nhiều cái lo lắng cỡ đó,cưới về rồ… See more",
+        "pain_score": 0.33,
+        "pain_categories": [
+          "frustration"
+        ],
+        "reactions": 51,
+        "comments_count": 1
+      },
+      {
+        "post_id": "4353965938066656",
+        "author": "Unknown",
+        "post_url": "https://www.facebook.com/groups/riviu.official/posts/4353965938066656",
+        "preview": "Ưu điểm : thưởng cao 100tr",
+        "pain_score": 0.33,
+        "pain_categories": [
+          "frustration"
+        ],
+        "reactions": 27,
+        "comments_count": 2
+      }
+    ]
+  },
+  "leads": {
+    "total_leads": 5,
+    "tier_breakdown": {
+      "Hot": 0,
+      "Warm": 1,
+      "Cold": 4
+    },
+    "top_product_categories": [
+      {
+        "category": "general",
+        "count": 4
+      },
+      {
+        "category": "beauty",
+        "count": 1
+      }
+    ],
+    "hot_leads": [],
+    "warm_leads": [
+      {
+        "post_id": "4353408824789034",
+        "author": "Unknown",
+        "author_id": "",
+        "post_url": "https://www.facebook.com/groups/riviu.official/posts/4353408824789034",
+        "timestamp": "Nguyễn Thanh Dũng",
+        "tier": "Warm",
+        "lead_score": 0.6,
+        "product_category": "general",
+        "preview": "Ai thấy tặng gì hay hay. Gợi ý cho mình nha",
+        "reactions": 0,
+        "comments_count": 21
+      }
+    ],
+    "cold_leads": [
+      {
+        "post_id": "4341591185970798",
+        "author": "Unknown",
+        "author_id": "",
+        "post_url": "https://www.facebook.com/groups/riviu.official/posts/4341591185970798",
+        "timestamp": "Trần Quý BéBo",
+        "tier": "Cold",
+        "lead_score": 0.3,
+        "product_category": "general",
+        "preview": "Bài hát này bên Trung nói về tình cảm một bạn nữ dành cho một bạn nữ khác. Giống như kiểu bạn học ở cùng ký túc xá vậy kiểu ở … See more",
+        "reactions": 100,
+        "comments_count": 1
+      },
+      {
+        "post_id": "4356376177825632",
+        "author": "Unknown",
+        "author_id": "",
+        "post_url": "https://www.facebook.com/groups/riviu.official/posts/4356376177825632",
+        "timestamp": "Anonymous participant 558",
+        "tier": "Cold",
+        "lead_score": 0.3,
+        "product_category": "general",
+        "preview": "Bạn nên tìm hiểu kỹ nha bạn!",
+        "reactions": 0,
+        "comments_count": 2
+      },
+      {
+        "post_id": "4068186286644624",
+        "author": "Unknown",
+        "author_id": "",
+        "post_url": "https://www.facebook.com/groups/riviu.official/posts/4068186286644624",
+        "timestamp": "Lại Quốc Huy",
+        "tier": "Cold",
+        "lead_score": 0.3,
+        "product_category": "general",
+        "preview": "Có ai biết quận 5 có trường nào ib mình giúp nhé. Xin cám ơn.",
+        "reactions": 0,
+        "comments_count": 11
+      },
+      {
+        "post_id": "4350245088438741",
+        "author": "Unknown",
+        "author_id": "",
+        "post_url": "https://www.facebook.com/groups/riviu.official/posts/4350245088438741",
+        "timestamp": "Ngan Ngan",
+        "tier": "Cold",
+        "lead_score": 0.3,
+        "product_category": "beauty",
+        "preview": "Bạn có thể tham khảo DYN Private Spa nha, uy tín, private mà tận tâm lắm á",
+        "reactions": 0,
+        "comments_count": 3
+      }
+    ]
+  },
+  "competitors": {
+    "total_brand_mentions": 4,
+    "share_of_voice": [
+      {
+        "brand": "Spa/Thẩm mỹ",
+        "sov_pct": 50.0,
+        "mentions": 2
+      },
+      {
+        "brand": "Grab",
+        "sov_pct": 25.0,
+        "mentions": 1
+      },
+      {
+        "brand": "Affiliate/MMO",
+        "sov_pct": 25.0,
+        "mentions": 1
+      },
+      {
+        "brand": "Shopee",
+        "sov_pct": 0.0,
+        "mentions": 0
+      }
+    ],
+    "brand_details": {
+      "Grab": {
+        "mentions": 1,
+        "share_of_voice_pct": 25.0,
+        "sentiment": {
+          "positive": 0,
+          "neutral": 1,
+          "negative": 0,
+          "positive_pct": 0.0,
+          "negative_pct": 0.0
+        },
+        "top_posts": [
+          {
+            "post_id": "4355031014626815",
+            "post_url": "https://www.facebook.com/groups/riviu.official/posts/4355031014626815",
+            "preview": "Lên grab food gõ \"bún bò 5T\" có đó mn.",
+            "sentiment": "neutral",
+            "reactions": 1
+          }
+        ]
+      },
+      "Spa/Thẩm mỹ": {
+        "mentions": 2,
+        "share_of_voice_pct": 50.0,
+        "sentiment": {
+          "positive": 1,
+          "neutral": 1,
+          "negative": 0,
+          "positive_pct": 50.0,
+          "negative_pct": 0.0
+        },
+        "top_posts": [
+          {
+            "post_id": "4350245088438741",
+            "post_url": "https://www.facebook.com/groups/riviu.official/posts/4350245088438741",
+            "preview": "Bạn có thể tham khảo DYN Private Spa nha, uy tín, private mà tận tâm lắm á",
+            "sentiment": "positive",
+            "reactions": 0
+          },
+          {
+            "post_id": "4354728467990403",
+            "post_url": "https://www.facebook.com/groups/riviu.official/posts/4354728467990403",
+            "preview": "Cầu kiểu đó tính là spam xong vô thùng thư rác hoặc thư ẩn là khỏi ai độ luôn",
+            "sentiment": "neutral",
+            "reactions": 0
+          }
+        ]
+      },
+      "Shopee": {
+        "mentions": 0,
+        "share_of_voice_pct": 0.0,
+        "sentiment": {
+          "positive": 0,
+          "neutral": 0,
+          "negative": 0,
+          "positive_pct": 0.0,
+          "negative_pct": 0.0
+        },
+        "top_posts": []
+      },
+      "Affiliate/MMO": {
+        "mentions": 1,
+        "share_of_voice_pct": 25.0,
+        "sentiment": {
+          "positive": 0,
+          "neutral": 1,
+          "negative": 0,
+          "positive_pct": 0.0,
+          "negative_pct": 0.0
+        },
+        "top_posts": [
+          {
+            "post_id": "4353630524766864",
+            "post_url": "https://www.facebook.com/groups/riviu.official/posts/4353630524766864",
+            "preview": "Lại gặp bài này nữa làm tui lại phải nói, 2026 rồi người người nhà nhà làm affiliate nha. Nghề trên mọi nghề hái ra tiền",
+            "sentiment": "neutral",
+            "reactions": 17
+          }
+        ]
+      }
+    }
+  },
+  "ai_insights": {
+    "group_summary": "Nhóm là một diễn đàn trao đổi đa dạng của người dùng Việt Nam, tập trung vào việc chia sẻ kinh nghiệm cá nhân, hỏi đáp tư vấn về nhiều lĩnh vực như mua bán, việc làm, đời sống và các vấn đề xã hội. Thành viên tích cực tham gia thảo luận các chủ đề từ thực tế đến mang tính tranh luận.",
+    "key_themes": [
+      "Hỏi đáp / Tư vấn (làm đẹp, công nghệ, tài chính, luật giao thông, kinh nghiệm)",
+      "Mua bán / Đánh giá sản phẩm/dịch vụ (quần áo, đồ ăn, nhà đất, làm đẹp)",
+      "Cá nhân / Đời sống xã hội (quan hệ, công việc, quan điểm, trải nghiệm)",
+      "Việc làm / Thu nhập (tuyển dụng, phỏng vấn, kiếm tiền, affiliate)",
+      "Tranh luận / Chia sẻ quan điểm (quan điểm cá nhân, bình luận xã hội)"
+    ],
+    "community_vibe": "Cộng đồng có văn hóa giao tiếp rất thẳng thắn, đời thường, thường sử dụng ngôn ngữ thân mật, đôi khi có phần 'chợ búa' hoặc châm biếm. Sự tương tác cao cho thấy thành viên thoải mái bày tỏ ý kiến, kinh nghiệm cá nhân và sẵn sàng tham gia vào các cuộc tranh luận sôi nổi.",
+    "sentiment_insight": "Phần lớn bài viết có cảm xúc trung lập, phản ánh xu hướng chia sẻ thông tin, hỏi đáp hoặc kể chuyện khách quan. Mặc dù có nhiều bài viết với ngôn ngữ trực diện hoặc mang tính chất tranh luận, nhưng số lượng bài tiêu cực lại rất thấp, cho thấy cộng đồng này có thể chỉ trích nhưng ít khi thể hiện sự giận dữ hay bất mãn sâu sắc. Các bài tích cực thường liên quan đến chia sẻ trải nghiệm tốt hoặc đưa ra lời khuyên hữu ích.",
+    "top_concerns": [
+      "Mua sắm và tiêu dùng (sản phẩm, dịch vụ, nhà cửa, giá cả)",
+      "Công việc và thu nhập (tìm việc, lương, kinh nghiệm phỏng vấn, đầu tư)",
+      "Đời sống cá nhân và các mối quan hệ xã hội (tình cảm, quan điểm sống, trải nghiệm)"
+    ],
+    "content_quality": "Nội dung là sự pha trộn giữa các bài viết cung cấp thông tin hữu ích (tư vấn, kinh nghiệm) và các bài mang tính giải trí (kể chuyện, tranh luận cá nhân), với một tỷ lệ nhất định các bài viết có xu hướng quảng cáo/mua bán.",
+    "recommendations": [
+      "Khuyến khích các bài viết chia sẻ kinh nghiệm cá nhân và giải pháp thực tế để tăng tính hữu ích cho cộng đồng.",
+      "Tạo cơ chế hoặc chuyên mục cụ thể cho hoạt động mua bán, quảng cáo để quản lý tốt hơn và giảm thiểu spam.",
+      "Khuyến khích các chủ đề thảo luận mang tính xây dựng hoặc cung cấp giải pháp cho các vấn đề chung mà cộng đồng quan tâm."
+    ],
+    "notable_patterns": "Các bài viết về trải nghiệm cá nhân, đặc biệt là những câu chuyện có yếu tố tranh cãi hoặc hài hước, thu hút lượng tương tác cực kỳ cao. Ngôn ngữ sử dụng trong nhóm rất tự nhiên, phản ánh đúng giọng điệu giao tiếp thường ngày của người Việt, tạo cảm giác gần gũi và chân thực.",
+    "_model_used": "gemini-2.5-flash",
+    "_input_hash": "71f4f78fb7fec828f2b8d82ba2751c8d"
+  },
+  "schema_version": "1.0"
+}

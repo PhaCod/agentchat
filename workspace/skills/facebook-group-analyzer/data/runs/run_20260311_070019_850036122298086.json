@@ -1,0 +1,16 @@
+{
+  "run_id": "run_20260311_070019_850036122298086",
+  "group_id": "850036122298086",
+  "group_url": "https://www.facebook.com/groups/850036122298086",
+  "trigger": "manual",
+  "settings": {
+    "days_back": 7,
+    "max_posts": 500
+  },
+  "started_at": "2026-03-11T07:00:19.824496+00:00",
+  "finished_at": "2026-03-11T07:02:48.721997+00:00",
+  "status": "success",
+  "posts_scraped": 8,
+  "posts_saved": 8,
+  "errors": []
+}

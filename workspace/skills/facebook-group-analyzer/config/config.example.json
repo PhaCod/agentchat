@@ -1,0 +1,30 @@
+{
+  "scraper": {
+    "headless": true,
+    "scroll_delay_ms": 2000,
+    "max_posts": 500,
+    "days_back": 30,
+    "download_media_meta": true,
+    "skip_low_quality": true
+  },
+  "analysis": {
+    "language": "vi",
+    "sentiment_model": "rule_based",
+    "min_keyword_freq": 3,
+    "spam_min_score": 0.7,
+    "topic_clusters": 8
+  },
+  "proxy": {
+    "enabled": false,
+    "provider": "netnut",
+    "username": "",
+    "password": "",
+    "country": "vn",
+    "sticky": true
+  },
+  "facebook": {
+    "email": "",
+    "password": "",
+    "session_file": "sessions/fb_session.json"
+  }
+}

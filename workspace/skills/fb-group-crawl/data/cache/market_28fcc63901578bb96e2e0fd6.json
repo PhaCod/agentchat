@@ -1,0 +1,90 @@
+{
+  "status": "ok",
+  "group_id": "1125804114216204",
+  "query": "xe thật chiến giá rẻ dưới 10tr",
+  "days": 30,
+  "max_price_vnd": 10000000,
+  "keywords_used": [
+    "air blade",
+    "giá rẻ",
+    "satria",
+    "sh",
+    "bán gấp",
+    "raider",
+    "vision",
+    "chốt",
+    "thanh lý",
+    "giá mềm",
+    "exciter",
+    "bán",
+    "xả",
+    "xe",
+    "côn tay",
+    "ab",
+    "hời",
+    "xe máy",
+    "cần tiền",
+    "xe thật chiến giá rẻ dưới",
+    "dọn nhà",
+    "pass",
+    "fix",
+    "winner",
+    "rẻ",
+    "tay ga",
+    "deal"
+  ],
+  "matches": [
+    {
+      "post_id": "4344828268980423",
+      "posted_at": "Thiên Lý",
+      "author": "Unknown",
+      "price_vnd": null,
+      "reactions": 989,
+      "comments_count": 1,
+      "post_url": "https://www.facebook.com/groups/riviu.official/posts/4344828268980423",
+      "preview": "T đang bán lun á má. Khuất tất gì, mua đi má, năm nay toàn mẫu đẹp"
+    },
+    {
+      "post_id": "4354858687977381",
+      "posted_at": "Huỳnh Thanh Toàn",
+      "author": "Unknown",
+      "price_vnd": null,
+      "reactions": 340,
+      "comments_count": 1,
+      "post_url": "https://www.facebook.com/groups/riviu.official/posts/4354858687977381",
+      "preview": "nếu chỉ có bảng nhường, không có vạch ưu tiên rẽ liên tục này thì có quyền nhường hoặc không, còn nếu có vạch ưu tiên này mà v… See more"
+    },
+    {
+      "post_id": "4346615312135052",
+      "posted_at": "Nguyễn Ái Xuân",
+      "author": "Unknown",
+      "price_vnd": null,
+      "reactions": 207,
+      "comments_count": 1,
+      "post_url": "https://www.facebook.com/groups/riviu.official/posts/4346615312135052",
+      "preview": "Tại người khác thấy ko hay bạn nè"
+    },
+    {
+      "post_id": "4341591185970798",
+      "posted_at": "Trần Quý BéBo",
+      "author": "Unknown",
+      "price_vnd": null,
+      "reactions": 100,
+      "comments_count": 1,
+      "post_url": "https://www.facebook.com/groups/riviu.official/posts/4341591185970798",
+      "preview": "Bài hát này bên Trung nói về tình cảm một bạn nữ dành cho một bạn nữ khác. Giống như kiểu bạn học ở cùng ký túc xá vậy kiểu ở … See more"
+    },
+    {
+      "post_id": "4344367399026510",
+      "posted_at": "CleverRhino5684",
+      "author": "Unknown",
+      "price_vnd": null,
+      "reactions": 58,
+      "comments_count": 1,
+      "post_url": "https://www.facebook.com/groups/riviu.official/posts/4344367399026510",
+      "preview": "Mình đã từng apply nhân viên bán hàng và phỏng vấn luôn rồi nhưng phỏng vấn xong thấy không ổn nên thôi né luôn."
+    }
+  ],
+  "note": "Fast search (FTS+heuristics, no LLM). If sparse, scrape more then retry.",
+  "_cached_at": "2026-03-11T07:48:29.170913+00:00"
+}

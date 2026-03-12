@@ -1,0 +1,65 @@
+{
+  "status": "ok",
+  "group_id": "1125804114216204",
+  "query": "mua son",
+  "days": 30,
+  "max_price_vnd": null,
+  "keywords_used": [
+    "mua son"
+  ],
+  "domain_must_any": [],
+  "matches": [
+    {
+      "post_id": "4356740221122561",
+      "posted_at": "2026-03-04T04:11:58.683131+00:00",
+      "author": "Unknown",
+      "price_vnd": 8000,
+      "reactions": 0,
+      "comments_count": 1,
+      "post_url": "https://www.facebook.com/groups/riviu.official/posts/4356740221122561",
+      "preview": "Khải xin 8k mua cơm đâu rồi"
+    },
+    {
+      "post_id": "4344828268980423",
+      "posted_at": "2026-03-04T04:12:55.808253+00:00",
+      "author": "Unknown",
+      "price_vnd": null,
+      "reactions": 989,
+      "comments_count": 1,
+      "post_url": "https://www.facebook.com/groups/riviu.official/posts/4344828268980423",
+      "preview": "T đang bán lun á má. Khuất tất gì, mua đi má, năm nay toàn mẫu đẹp"
+    },
+    {
+      "post_id": "4340680366061880",
+      "posted_at": "2026-03-04T04:15:00.176017+00:00",
+      "author": "Unknown",
+      "price_vnd": null,
+      "reactions": 582,
+      "comments_count": 1,
+      "post_url": "https://www.facebook.com/groups/riviu.official/posts/4340680366061880",
+      "preview": "Tưởng cua đc gái là do mình tài giỏi"
+    },
+    {
+      "post_id": "4349223241874259",
+      "posted_at": "2026-03-04T04:13:45.885810+00:00",
+      "author": "Unknown",
+      "price_vnd": null,
+      "reactions": 128,
+      "comments_count": 5,
+      "post_url": "https://www.facebook.com/groups/riviu.official/posts/4349223241874259",
+      "preview": "Out ra xong miss thông tin bị trừ lương =))"
+    },
+    {
+      "post_id": "4341591185970798",
+      "posted_at": "2026-03-04T04:12:56.161720+00:00",
+      "author": "Unknown",
+      "price_vnd": null,
+      "reactions": 100,
+      "comments_count": 1,
+      "post_url": "https://www.facebook.com/groups/riviu.official/posts/4341591185970798",
+      "preview": "Bài hát này bên Trung nói về tình cảm một bạn nữ dành cho một bạn nữ khác. Giống như kiểu bạn học ở cùng ký túc xá vậy kiểu ở … See more"
+    }
+  ],
+  "note": "Fast search (FTS+heuristics, no LLM). If sparse, scrape more then retry.",
+  "_cached_at": "2026-03-12T10:16:49.729177+00:00"
+}

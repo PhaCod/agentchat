@@ -1,0 +1,16 @@
+{
+  "run_id": "run_20260304_082353_riviu.official",
+  "group_id": "riviu.official",
+  "group_url": "https://www.facebook.com/groups/riviu.official/?sorting_setting=CHRONOLOGICAL",
+  "trigger": "manual",
+  "settings": {
+    "days_back": 1,
+    "max_posts": 10
+  },
+  "started_at": "2026-03-04T08:23:53.583187+00:00",
+  "finished_at": "2026-03-04T08:25:34.706860+00:00",
+  "status": "success",
+  "posts_scraped": 7,
+  "posts_saved": 7,
+  "errors": []
+}

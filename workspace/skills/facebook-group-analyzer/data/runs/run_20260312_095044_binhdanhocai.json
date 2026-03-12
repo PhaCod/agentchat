@@ -1,0 +1,18 @@
+{
+  "run_id": "run_20260312_095044_binhdanhocai",
+  "group_id": "binhdanhocai",
+  "group_url": "https://www.facebook.com/groups/binhdanhocai",
+  "trigger": "manual",
+  "settings": {
+    "days_back": 7,
+    "max_posts": 500
+  },
+  "started_at": "2026-03-12T09:50:44.962727+00:00",
+  "finished_at": "2026-03-12T09:57:43.331644+00:00",
+  "status": "error",
+  "posts_scraped": 0,
+  "posts_saved": 0,
+  "errors": [
+    "Page.wait_for_timeout: Target page, context or browser has been closed"
+  ]
+}

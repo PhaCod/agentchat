@@ -1,0 +1,16 @@
+{
+  "run_id": "run_20260312_102025_binhdanhocai",
+  "group_id": "binhdanhocai",
+  "group_url": "https://www.facebook.com/groups/binhdanhocai",
+  "trigger": "manual",
+  "settings": {
+    "days_back": 7,
+    "max_posts": 500
+  },
+  "started_at": "2026-03-12T10:20:25.924883+00:00",
+  "finished_at": null,
+  "status": "running",
+  "posts_scraped": 0,
+  "posts_saved": 0,
+  "errors": []
+}

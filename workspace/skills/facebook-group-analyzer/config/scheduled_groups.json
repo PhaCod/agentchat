@@ -1,0 +1,23 @@
+{
+  "description": "Groups to scrape+analyze on schedule. Used by scripts/run_scheduled.",
+  "groups": [
+    {
+      "id": "riviu.official",
+      "url": "https://www.facebook.com/groups/riviu.official/?sorting_setting=CHRONOLOGICAL",
+      "days_back": 7,
+      "max_posts": 500,
+      "enabled": true
+    },
+    {
+      "id": "1125804114216204",
+      "url": "https://www.facebook.com/groups/1125804114216204",
+      "days_back": 7,
+      "max_posts": 500,
+      "enabled": true
+    }
+  ],
+  "defaults": {
+    "days_back": 7,
+    "max_posts": 500
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "gemini": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.7,
+    "max_output_tokens": 8192
+  },
+  "search": {
+    "web_max_results": 10,
+    "facebook_max_posts": 30,
+    "tiktok_max_videos": 20,
+    "cache_ttl_hours": 6
+  },
+  "scraper": {
+    "headless": true,
+    "scroll_delay_ms": 2000,
+    "timeout_ms": 60000
+  },
+  "report": {
+    "language": "vi",
+    "max_summary_length": 3000
+  },
+  "facebook": {
+    "default_groups": [
+      "https://www.facebook.com/groups/riviu.official/?sorting_setting=CHRONOLOGICAL"
+    ],
+    "session_file": "sessions/fb_session.json"
+  }
+}

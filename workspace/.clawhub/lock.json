@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "facebook-scraper": {
+      "version": "0.1.2",
+      "installedAt": 1772527547788
+    },
+    "facebook-group-analyzer": {
+      "version": "1.0.0",
+      "installedAt": 1772533500000
+    },
+    "market-research": {
+      "version": "1.0.0",
+      "installedAt": 1772600000000
+    }
+  }
+}

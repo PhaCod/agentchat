@@ -1,0 +1,25 @@
+{
+  "scraper": {
+    "headless": false,
+    "scroll_delay_ms": 2500,
+    "max_posts": 20,
+    "days_back": 30,
+    "skip_low_quality": true
+  },
+  "facebook": {
+    "email": "",
+    "password": "",
+    "session_file": "sessions/fb_session.json"
+  },
+  "proxy": {
+    "enabled": false,
+    "provider": "netnut",
+    "username": "",
+    "password": ""
+  },
+  "gemini": {
+    "model": "gemini-2.5-flash",
+    "max_posts_per_query": 30,
+    "language": "vi"
+  }
+}

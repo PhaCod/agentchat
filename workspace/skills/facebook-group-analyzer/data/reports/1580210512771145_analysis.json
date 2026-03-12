@@ -1,0 +1,215 @@
+{
+  "group_id": "1580210512771145",
+  "analyzed_at": "2026-03-11T07:14:23.230776+00:00",
+  "total_posts": 11,
+  "posts_with_content": 11,
+  "posts_excluded_from_text_analysis": 0,
+  "date_range": {
+    "from": "2026-03-10",
+    "to": "2026-03-11"
+  },
+  "sentiment": {
+    "positive": 7,
+    "neutral": 3,
+    "negative": 1,
+    "distribution_pct": {
+      "positive": 63.6,
+      "neutral": 27.3,
+      "negative": 9.1
+    }
+  },
+  "top_keywords": [
+    {
+      "keyword": "máy",
+      "count": 7
+    },
+    {
+      "keyword": "tìm",
+      "count": 6
+    },
+    {
+      "keyword": "zin",
+      "count": 6
+    },
+    {
+      "keyword": "iphone",
+      "count": 5
+    },
+    {
+      "keyword": "mua",
+      "count": 4
+    },
+    {
+      "keyword": "cần",
+      "count": 3
+    },
+    {
+      "keyword": "pin",
+      "count": 3
+    },
+    {
+      "keyword": "bản",
+      "count": 3
+    },
+    {
+      "keyword": "full",
+      "count": 3
+    },
+    {
+      "keyword": "mình",
+      "count": 3
+    },
+    {
+      "keyword": "hàng",
+      "count": 3
+    }
+  ],
+  "topics": [
+    {
+      "topic": "Hỏi giá / Mua bán",
+      "post_count": 7,
+      "pct": 63.6
+    },
+    {
+      "topic": "Khác",
+      "post_count": 3,
+      "pct": 27.3
+    },
+    {
+      "topic": "Hỏi đáp / Tư vấn",
+      "post_count": 1,
+      "pct": 9.1
+    }
+  ],
+  "spam_posts_count": 0,
+  "spam_post_ids": [],
+  "engagement": {
+    "avg_reactions": 0.1,
+    "avg_comments": 9272729.5,
+    "avg_shares": 0.0,
+    "top_posts": [
+      {
+        "post_id": "2123564905102367",
+        "author": "Unknown",
+        "content_preview": "Tìm Mua Iphone \nTài chính 8tr cần tìm iphone Xsmax , 11pro , 11promax \nGiao dịch trực tiếp tại Sg",
+        "reactions": 1,
+        "comments_count": 21,
+        "shares_count": 0,
+        "timestamp": "2026-03-10T10:13:13.642092+00:00",
+        "post_url": "https://www.facebook.com/groups/1580210512771145/posts/2123564905102367"
+      },
+      {
+        "post_id": "2124126318379559",
+        "author": "Uyên Trương",
+        "content_preview": "Em cần tìm ip xsm phục vụ cho chụp hình ạ",
+        "reactions": 0,
+        "comments_count": 3,
+        "shares_count": 0,
+        "timestamp": "2026-03-11T02:13:14.136746+00:00",
+        "post_url": "https://www.facebook.com/groups/1580210512771145/posts/2124126318379559"
+      },
+      {
+        "post_id": "2124283705030487",
+        "author": "Unknown",
+        "content_preview": "Tài chính 10tr thì mua được máy nào ạ.",
+        "reactions": 0,
+        "comments_count": 0,
+        "shares_count": 0,
+        "timestamp": "2026-03-11T06:13:20.816270+00:00",
+        "post_url": "https://www.facebook.com/groups/1580210512771145/posts/2124283705030487"
+      },
+      {
+        "post_id": "2124267071698817",
+        "author": "Hoàng Minh Việt",
+        "content_preview": "HCM Tìm mua ip 15 pro 256 màu XANH TRẮNG.\nYêu cầu: nguyên zin, đẹp 99.",
+        "reactions": 0,
+        "comments_count": 5000000,
+        "shares_count": 0,
+        "timestamp": "2026-03-11T06:13:21.269529+00:00",
+        "post_url": "https://www.facebook.com/groups/1580210512771145/posts/2124267071698817"
+      },
+      {
+        "post_id": "2124326298359561",
+        "author": "Unknown",
+        "content_preview": "12 prm tìm bù máy lên đời 14prm",
+        "reactions": 0,
+        "comments_count": 0,
+        "shares_count": 0,
+        "timestamp": "",
+        "post_url": "https://www.facebook.com/groups/1580210512771145/posts/2124326298359561"
+      },
+      {
+        "post_id": "2124313345027523",
+        "author": "Hoàng Chương",
+        "content_preview": "Em cần bán máy 16promax pin 100% ghim sạc 80 lần\nBản vn còn hộp cáp sạc\nNgoại hình không chày xướt full zin",
+        "reactions": 0,
+        "comments_count": 18000000,
+        "shares_count": 0,
+        "timestamp": "",
+        "post_url": "https://www.facebook.com/groups/1580210512771145/posts/2124313345027523"
+      },
+      {
+        "post_id": "2124301301695394",
+        "author": "Nguyen Quoc Truong",
+        "content_preview": "tìm 15-16prm 256gb full zin uu tiên q10 scam né đỡ tốn tgian check máy",
+        "reactions": 0,
+        "comments_count": 40000000,
+        "shares_count": 0,
+        "timestamp": "",
+        "post_url": "https://www.facebook.com/groups/1580210512771145/posts/2124301301695394"
+      },
+      {
+        "post_id": "2124294805029377",
+        "author": "Thư Trần",
+        "content_preview": "Mình bán iphone 11 128gb quốc tế\nTình trạng: chưa sửa chữa thay thế, pin zin 75%\nTất cả chức năng đều đang hoạt động\nGia",
+        "reactions": 0,
+        "comments_count": 39000000,
+        "shares_count": 0,
+        "timestamp": "",
+        "post_url": "https://www.facebook.com/groups/1580210512771145/posts/2124294805029377"
+      },
+      {
+        "post_id": "2124323541693170",
+        "author": "Khánh Vân",
+        "content_preview": "Hàng oder ai mua ib em để em báo giá ạ\nDòng máy iphone 8plus hàng LL/A. Hàng zin chưa thay màn ạ. Ai chốt em tặng đầy đủ",
+        "reactions": 0,
+        "comments_count": 0,
+        "shares_count": 0,
+        "timestamp": "",
+        "post_url": "https://www.facebook.com/groups/1580210512771145/posts/2124323541693170"
+      },
+      {
+        "post_id": "2124323338359857",
+        "author": "Vũ Phương Quỳnh",
+        "content_preview": "em bass lại iphone 14 Pro Max 256 gb bản chuẩn quốc tế không giới hạn sim máy em dùng dán cường lực kỹ còn đẹp không trầ",
+        "reactions": 0,
+        "comments_count": 0,
+        "shares_count": 0,
+        "timestamp": "",
+        "post_url": "https://www.facebook.com/groups/1580210512771145/posts/2124323338359857"
+      }
+    ],
+    "best_hours": [
+      10,
+      2,
+      6
+    ],
+    "content_type_breakdown": {
+      "text": {
+        "count": 11,
+        "avg_reactions": 0.1
+      }
+    }
+  },
+  "trends": {
+    "rising_keywords": [],
+    "declining_keywords": [
+      "iphone"
+    ],
+    "viral_posts": [],
+    "weekly_dominant_topic": {
+      "2026-W11": "Hỏi giá / Mua bán"
+    }
+  },
+  "schema_version": "1.0"
+}

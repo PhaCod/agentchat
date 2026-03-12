@@ -1,0 +1,330 @@
+{
+  "group_id": "test_group",
+  "analyzed_at": "2026-03-03T09:56:04.408633+00:00",
+  "total_posts": 60,
+  "date_range": {
+    "from": "2026-02-01",
+    "to": "2026-02-28"
+  },
+  "sentiment": {
+    "positive": 24,
+    "neutral": 24,
+    "negative": 12,
+    "distribution_pct": {
+      "positive": 40.0,
+      "neutral": 40.0,
+      "negative": 20.0
+    }
+  },
+  "top_keywords": [
+    {
+      "keyword": "giá",
+      "count": 20
+    },
+    {
+      "keyword": "mua",
+      "count": 16
+    },
+    {
+      "keyword": "mọi",
+      "count": 12
+    },
+    {
+      "keyword": "người",
+      "count": 12
+    },
+    {
+      "keyword": "mình",
+      "count": 12
+    },
+    {
+      "keyword": "review",
+      "count": 8
+    },
+    {
+      "keyword": "sản",
+      "count": 8
+    },
+    {
+      "keyword": "phẩm",
+      "count": 8
+    },
+    {
+      "keyword": "chất",
+      "count": 8
+    },
+    {
+      "keyword": "lượng",
+      "count": 8
+    },
+    {
+      "keyword": "dùng",
+      "count": 8
+    },
+    {
+      "keyword": "hài",
+      "count": 8
+    },
+    {
+      "keyword": "xem",
+      "count": 8
+    },
+    {
+      "keyword": "hàng",
+      "count": 8
+    },
+    {
+      "keyword": "nhật",
+      "count": 8
+    },
+    {
+      "keyword": "group",
+      "count": 8
+    },
+    {
+      "keyword": "shop",
+      "count": 8
+    },
+    {
+      "keyword": "giảm",
+      "count": 8
+    },
+    {
+      "keyword": "tháng",
+      "count": 8
+    },
+    {
+      "keyword": "rất",
+      "count": 4
+    },
+    {
+      "keyword": "tốt",
+      "count": 4
+    },
+    {
+      "keyword": "recommend",
+      "count": 4
+    },
+    {
+      "keyword": "bao",
+      "count": 4
+    },
+    {
+      "keyword": "nhiêu",
+      "count": 4
+    },
+    {
+      "keyword": "vậy",
+      "count": 4
+    },
+    {
+      "keyword": "inbox",
+      "count": 4
+    },
+    {
+      "keyword": "nhé",
+      "count": 4
+    },
+    {
+      "keyword": "flash",
+      "count": 4
+    },
+    {
+      "keyword": "sale",
+      "count": 4
+    },
+    {
+      "keyword": "hôm",
+      "count": 4
+    }
+  ],
+  "topics": [
+    {
+      "topic": "Hỏi giá / Mua bán",
+      "post_count": 28,
+      "pct": 46.7
+    },
+    {
+      "topic": "Review / Feedback",
+      "post_count": 8,
+      "pct": 13.3
+    },
+    {
+      "topic": "Hỏi đáp / Tư vấn",
+      "post_count": 8,
+      "pct": 13.3
+    },
+    {
+      "topic": "Giải trí / Hài hước",
+      "post_count": 4,
+      "pct": 6.7
+    },
+    {
+      "topic": "Cộng đồng / Kết nối",
+      "post_count": 4,
+      "pct": 6.7
+    },
+    {
+      "topic": "Khác",
+      "post_count": 4,
+      "pct": 6.7
+    },
+    {
+      "topic": "Tin tức / Chia sẻ",
+      "post_count": 4,
+      "pct": 6.7
+    }
+  ],
+  "spam_posts_count": 4,
+  "spam_post_ids": [
+    "post_0002",
+    "post_0017",
+    "post_0032",
+    "post_0047"
+  ],
+  "engagement": {
+    "avg_reactions": 156.6,
+    "avg_comments": 31.3,
+    "avg_shares": 13.9,
+    "top_posts": [
+      {
+        "post_id": "post_0009",
+        "author": "User 9",
+        "content_preview": "Cảm ơn mọi người đã ủng hộ, chất lượng tuyệt vời, hài lòng 100%",
+        "reactions": 678,
+        "comments_count": 120,
+        "shares_count": 34,
+        "timestamp": "2026-02-10T09:00:00+00:00",
+        "post_url": "https://facebook.com/groups/test_group/posts/post_0009"
+      },
+      {
+        "post_id": "post_0024",
+        "author": "User 4",
+        "content_preview": "Cảm ơn mọi người đã ủng hộ, chất lượng tuyệt vời, hài lòng 100%",
+        "reactions": 678,
+        "comments_count": 120,
+        "shares_count": 34,
+        "timestamp": "2026-02-25T00:00:00+00:00",
+        "post_url": "https://facebook.com/groups/test_group/posts/post_0024"
+      },
+      {
+        "post_id": "post_0039",
+        "author": "User 9",
+        "content_preview": "Cảm ơn mọi người đã ủng hộ, chất lượng tuyệt vời, hài lòng 100%",
+        "reactions": 678,
+        "comments_count": 120,
+        "shares_count": 34,
+        "timestamp": "2026-02-12T15:00:00+00:00",
+        "post_url": "https://facebook.com/groups/test_group/posts/post_0039"
+      },
+      {
+        "post_id": "post_0054",
+        "author": "User 4",
+        "content_preview": "Cảm ơn mọi người đã ủng hộ, chất lượng tuyệt vời, hài lòng 100%",
+        "reactions": 678,
+        "comments_count": 120,
+        "shares_count": 34,
+        "timestamp": "2026-02-27T06:00:00+00:00",
+        "post_url": "https://facebook.com/groups/test_group/posts/post_0054"
+      },
+      {
+        "post_id": "post_0004",
+        "author": "User 4",
+        "content_preview": "Clip hài hước quá, haha xem cả ngày không chán",
+        "reactions": 450,
+        "comments_count": 67,
+        "shares_count": 89,
+        "timestamp": "2026-02-05T04:00:00+00:00",
+        "post_url": "https://facebook.com/groups/test_group/posts/post_0004"
+      },
+      {
+        "post_id": "post_0019",
+        "author": "User 9",
+        "content_preview": "Clip hài hước quá, haha xem cả ngày không chán",
+        "reactions": 450,
+        "comments_count": 67,
+        "shares_count": 89,
+        "timestamp": "2026-02-20T19:00:00+00:00",
+        "post_url": "https://facebook.com/groups/test_group/posts/post_0019"
+      },
+      {
+        "post_id": "post_0034",
+        "author": "User 4",
+        "content_preview": "Clip hài hước quá, haha xem cả ngày không chán",
+        "reactions": 450,
+        "comments_count": 67,
+        "shares_count": 89,
+        "timestamp": "2026-02-07T10:00:00+00:00",
+        "post_url": "https://facebook.com/groups/test_group/posts/post_0034"
+      },
+      {
+        "post_id": "post_0049",
+        "author": "User 9",
+        "content_preview": "Clip hài hước quá, haha xem cả ngày không chán",
+        "reactions": 450,
+        "comments_count": 67,
+        "shares_count": 89,
+        "timestamp": "2026-02-22T01:00:00+00:00",
+        "post_url": "https://facebook.com/groups/test_group/posts/post_0049"
+      },
+      {
+        "post_id": "post_0000",
+        "author": "User 0",
+        "content_preview": "Review sản phẩm rất tốt, chất lượng ổn, recommend cho mọi người",
+        "reactions": 320,
+        "comments_count": 45,
+        "shares_count": 12,
+        "timestamp": "2026-02-01T00:00:00+00:00",
+        "post_url": "https://facebook.com/groups/test_group/posts/post_0000"
+      },
+      {
+        "post_id": "post_0015",
+        "author": "User 5",
+        "content_preview": "Review sản phẩm rất tốt, chất lượng ổn, recommend cho mọi người",
+        "reactions": 320,
+        "comments_count": 45,
+        "shares_count": 12,
+        "timestamp": "2026-02-16T15:00:00+00:00",
+        "post_url": "https://facebook.com/groups/test_group/posts/post_0015"
+      }
+    ],
+    "best_hours": [
+      0,
+      6,
+      15,
+      9,
+      4
+    ],
+    "content_type_breakdown": {
+      "text": {
+        "count": 44,
+        "avg_reactions": 88.8
+      },
+      "video": {
+        "count": 8,
+        "avg_reactions": 303.0
+      },
+      "image": {
+        "count": 8,
+        "avg_reactions": 383.0
+      }
+    }
+  },
+  "trends": {
+    "rising_keywords": [],
+    "declining_keywords": [],
+    "viral_posts": [
+      "post_0009",
+      "post_0039",
+      "post_0024",
+      "post_0054"
+    ],
+    "weekly_dominant_topic": {
+      "2026-W05": "Review / Feedback",
+      "2026-W06": "Hỏi giá / Mua bán",
+      "2026-W07": "Hỏi giá / Mua bán",
+      "2026-W08": "Hỏi giá / Mua bán",
+      "2026-W09": "Hỏi giá / Mua bán"
+    }
+  }
+}

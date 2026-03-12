@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "group_id": "riviu.official",
+  "updated_at": "2026-03-11T05:11:01.319398+00:00",
+  "post_count": 1,
+  "posts": [
+    {
+      "post_id": "4365035510293032",
+      "group_id": "riviu.official",
+      "author": "My Phương",
+      "author_id": "",
+      "content": "Dù k phải kol chuyên rv mỹ phẩm nhưng c Kaity share i4 tuýp kem mắt này xịn quá bây ơi, nhờ ẻm mà quầng thâm mắt của t mờ hẳn lun íiii \ntuýp kem mắt đó nè: https://thanh.riviu.vn/ByU7Ssq3\ncòn loại này là thần lun nè mà hơi xót ví tí: https://thanh.riviu.vn/2BuTiHk9",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://scontent.fsgn5-8.fna.fbcdn.net/v/t39.30808-6/650682577_122128365393000153_9153226022877066148_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=109&ccb=1-7&_nc_sid=e06c5d&_nc_aid=0&_nc_ohc=4a-KOkCmJu8Q7kNvwFLOgKi&_nc_oc=AdkMaKGLjaqcEXTPNb1sEYGM3INoZB5i3NH8DDJ5vwnS6iepmKkBL-QbgwfMLG-re3M&_nc_zt=23&_nc_ht=scontent.fsgn5-8.fna&_nc_gid=3G_yAnCHDlJ6wT8js2jmgg&_nc_ss=8&oh=00_AfxM-_PRryJK6xnMDxdi_WhLcaVkjOg3Vh0yCfn3Od8VKw&oe=69B6DEE8",
+          "expires_at": "2026-03-15T16:31:36+00:00"
+        },
+        {
+          "type": "image",
+          "url": "https://scontent.fsgn5-12.fna.fbcdn.net/v/t39.30808-6/650651790_122128365399000153_6023380973610804986_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=1&ccb=1-7&_nc_sid=e06c5d&_nc_aid=0&_nc_ohc=cWZVW0-GleMQ7kNvwGupedw&_nc_oc=AdnfED6iVqEAwSGcVYqsmuAmR4KnOx0GGgcA3VIpoZ6Qq4VOovJ0vdbRS0dVLiUjMsw&_nc_zt=23&_nc_ht=scontent.fsgn5-12.fna&_nc_gid=3G_yAnCHDlJ6wT8js2jmgg&_nc_ss=8&oh=00_AfxAjedMjGELerSb2mvXdoyU6UOhygj3kcGAguepHaOjcA&oe=69B6E326",
+          "expires_at": "2026-03-15T16:49:42+00:00"
+        }
+      ],
+      "reactions": {
+        "total": 0,
+        "like": 0,
+        "love": 0,
+        "haha": 0,
+        "wow": 0,
+        "sad": 0,
+        "angry": 0
+      },
+      "comments_count": 0,
+      "shares_count": 0,
+      "post_url": "https://www.facebook.com/groups/riviu.official/posts/4365035510293032",
+      "timestamp": "2026-03-11T04:10:00.595548+00:00",
+      "content_type": "link",
+      "scraped_at": "2026-03-11T05:10:00.690265+00:00",
+      "scrape_run_id": "run_20260311_050901_riviu.official"
+    }
+  ]
+}

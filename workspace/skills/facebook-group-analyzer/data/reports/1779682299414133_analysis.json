@@ -1,0 +1,252 @@
+{
+  "group_id": "1779682299414133",
+  "analyzed_at": "2026-03-11T06:58:15.415802+00:00",
+  "total_posts": 12,
+  "posts_with_content": 12,
+  "posts_excluded_from_text_analysis": 0,
+  "date_range": {
+    "from": "2026-03-11",
+    "to": "2026-03-11"
+  },
+  "sentiment": {
+    "positive": 8,
+    "neutral": 4,
+    "negative": 0,
+    "distribution_pct": {
+      "positive": 66.7,
+      "neutral": 33.3,
+      "negative": 0.0
+    }
+  },
+  "top_keywords": [
+    {
+      "keyword": "giá",
+      "count": 12
+    },
+    {
+      "keyword": "dùng",
+      "count": 6
+    },
+    {
+      "keyword": "năm",
+      "count": 5
+    },
+    {
+      "keyword": "sim",
+      "count": 4
+    },
+    {
+      "keyword": "cần",
+      "count": 4
+    },
+    {
+      "keyword": "bán",
+      "count": 4
+    },
+    {
+      "keyword": "see",
+      "count": 4
+    },
+    {
+      "keyword": "more",
+      "count": 4
+    },
+    {
+      "keyword": "vẫn",
+      "count": 3
+    },
+    {
+      "keyword": "u1500",
+      "count": 3
+    },
+    {
+      "keyword": "749k",
+      "count": 3
+    },
+    {
+      "keyword": "tháng",
+      "count": 3
+    },
+    {
+      "keyword": "sạc",
+      "count": 3
+    },
+    {
+      "keyword": "thanh",
+      "count": 3
+    },
+    {
+      "keyword": "chính",
+      "count": 3
+    },
+    {
+      "keyword": "hãng",
+      "count": 3
+    },
+    {
+      "keyword": "anker",
+      "count": 3
+    },
+    {
+      "keyword": "cap",
+      "count": 3
+    },
+    {
+      "keyword": "hàng",
+      "count": 3
+    },
+    {
+      "keyword": "bản",
+      "count": 3
+    }
+  ],
+  "topics": [
+    {
+      "topic": "Hỏi giá / Mua bán",
+      "post_count": 10,
+      "pct": 83.3
+    },
+    {
+      "topic": "Khác",
+      "post_count": 2,
+      "pct": 16.7
+    }
+  ],
+  "spam_posts_count": 0,
+  "spam_post_ids": [],
+  "engagement": {
+    "avg_reactions": 0.0,
+    "avg_comments": 3166666.7,
+    "avg_shares": 0.0,
+    "top_posts": [
+      {
+        "post_id": "1857967754918920",
+        "author": "SimConnect",
+        "content_preview": "Người ta lo đổ xăng… còn anh em dùng SIM Connect thì vẫn cười tươi \nHôm qua mua SIM U1500 – 749K\nHôm nay quay lại… vẫn 7",
+        "reactions": 0,
+        "comments_count": 0,
+        "shares_count": 0,
+        "timestamp": "2026-03-11T04:30:31.986612+00:00",
+        "post_url": "https://www.facebook.com/groups/1779682299414133/posts/1857967754918920"
+      },
+      {
+        "post_id": "1857999481582414",
+        "author": "Unknown",
+        "content_preview": "Dọn nhà mình cần bán :\n1. S20Fe hỏng màn giá 1tr4\n2.Iphone 12 promax cảm ứng màn dùng dc chống cháy , cháy 1 bên tai thỏ",
+        "reactions": 0,
+        "comments_count": 0,
+        "shares_count": 0,
+        "timestamp": "",
+        "post_url": "https://www.facebook.com/groups/1779682299414133/posts/1857999481582414"
+      },
+      {
+        "post_id": "1857997611582601",
+        "author": "Trần Nhàn",
+        "content_preview": "Thanh lý mot số dô như hình giá 120k",
+        "reactions": 0,
+        "comments_count": 0,
+        "shares_count": 0,
+        "timestamp": "",
+        "post_url": "https://www.facebook.com/groups/1779682299414133/posts/1857997611582601"
+      },
+      {
+        "post_id": "1857997424915953",
+        "author": "Unknown",
+        "content_preview": "Cáp mở rộng mắt hồng ngoại Amazon IR Extender – 200k + ship\nPhụ kiện Amazon chính hãng, dùng để mở rộng mắt nhận tín hiệ",
+        "reactions": 0,
+        "comments_count": 0,
+        "shares_count": 0,
+        "timestamp": "",
+        "post_url": "https://www.facebook.com/groups/1779682299414133/posts/1857997424915953"
+      },
+      {
+        "post_id": "1857987068250322",
+        "author": "No Nam",
+        "content_preview": "Xin phép các bác em có ít đồ cần bán ạ\n1: cảm biến hiện diện zigbee 170k\n2: công tắc wifi + rf433 90k\n3: hub sạc usb 8 c",
+        "reactions": 0,
+        "comments_count": 38000000,
+        "shares_count": 0,
+        "timestamp": "",
+        "post_url": "https://www.facebook.com/groups/1779682299414133/posts/1857987068250322"
+      },
+      {
+        "post_id": "1857985498250479",
+        "author": "Em Gà",
+        "content_preview": "Thanh Lý Củ AnKer 65W , Usams 30W+ Cap Anker + cap raviad ( giá sale)\nHàng chính hãng ( ko chính hãng ko lấy tiền)\ngiá :",
+        "reactions": 0,
+        "comments_count": 0,
+        "shares_count": 0,
+        "timestamp": "",
+        "post_url": "https://www.facebook.com/groups/1779682299414133/posts/1857985498250479"
+      },
+      {
+        "post_id": "1857983481584014",
+        "author": "Minh Hải Jeans",
+        "content_preview": "Xám rách nhà cá \nỐng hơi côn - co giãn !!!",
+        "reactions": 0,
+        "comments_count": 0,
+        "shares_count": 0,
+        "timestamp": "",
+        "post_url": "https://www.facebook.com/groups/1779682299414133/posts/1857983481584014"
+      },
+      {
+        "post_id": "1858039038245125",
+        "author": "Unknown",
+        "content_preview": "Dọn kho còn con loa Bluetooth karaoke(made in USA)em xả nốt ạ,kèm 2 Mic không dây +freeship \nLh 0974344398",
+        "reactions": 0,
+        "comments_count": 0,
+        "shares_count": 0,
+        "timestamp": "",
+        "post_url": "https://www.facebook.com/groups/1779682299414133/posts/1858039038245125"
+      },
+      {
+        "post_id": "1858020238247005",
+        "author": "Si Rô",
+        "content_preview": "Thủ Đức TPHCM dư dùng cần bán hay gl mi band 9 pro đẹp keng, pin trâu, bao gồm máy và sạc. Giá 950k",
+        "reactions": 0,
+        "comments_count": 0,
+        "shares_count": 0,
+        "timestamp": "",
+        "post_url": "https://www.facebook.com/groups/1779682299414133/posts/1858020238247005"
+      },
+      {
+        "post_id": "1858020174913678",
+        "author": "Tiến Đạt Nguyễn",
+        "content_preview": "rọn kho e sót vài chiếc đế điện mini hàng nội địa nhật bản(made in japan)\nhàng về việt nam e đã đổi nguồn sang điện 220v",
+        "reactions": 0,
+        "comments_count": 0,
+        "shares_count": 0,
+        "timestamp": "",
+        "post_url": "https://www.facebook.com/groups/1779682299414133/posts/1858020174913678"
+      }
+    ],
+    "best_hours": [
+      4
+    ],
+    "content_type_breakdown": {
+      "text": {
+        "count": 11,
+        "avg_reactions": 0.0
+      },
+      "video": {
+        "count": 1,
+        "avg_reactions": 0.0
+      }
+    }
+  },
+  "trends": {
+    "rising_keywords": [
+      "tháng",
+      "749k",
+      "u1500"
+    ],
+    "declining_keywords": [],
+    "viral_posts": [
+      "1857967754918920"
+    ],
+    "weekly_dominant_topic": {
+      "2026-W11": "Hỏi giá / Mua bán"
+    }
+  },
+  "schema_version": "1.0"
+}

@@ -1,0 +1,227 @@
+{
+  "group_id": "riviu.official",
+  "analyzed_at": "2026-03-11T05:11:01.359474+00:00",
+  "total_posts": 14,
+  "posts_with_content": 14,
+  "posts_excluded_from_text_analysis": 0,
+  "date_range": {
+    "from": "2026-03-11",
+    "to": "2026-03-11"
+  },
+  "sentiment": {
+    "positive": 3,
+    "neutral": 10,
+    "negative": 1,
+    "distribution_pct": {
+      "positive": 21.4,
+      "neutral": 71.4,
+      "negative": 7.1
+    }
+  },
+  "top_keywords": [
+    {
+      "keyword": "lun",
+      "count": 4
+    },
+    {
+      "keyword": "tiếng",
+      "count": 4
+    },
+    {
+      "keyword": "see",
+      "count": 4
+    },
+    {
+      "keyword": "more",
+      "count": 4
+    },
+    {
+      "keyword": "vừa",
+      "count": 4
+    },
+    {
+      "keyword": "làm",
+      "count": 4
+    },
+    {
+      "keyword": "hoa",
+      "count": 4
+    },
+    {
+      "keyword": "nhưng",
+      "count": 3
+    },
+    {
+      "keyword": "kem",
+      "count": 3
+    },
+    {
+      "keyword": "mắt",
+      "count": 3
+    },
+    {
+      "keyword": "bây",
+      "count": 3
+    },
+    {
+      "keyword": "trời",
+      "count": 3
+    },
+    {
+      "keyword": "ngày",
+      "count": 3
+    }
+  ],
+  "topics": [
+    {
+      "topic": "Khác",
+      "post_count": 12,
+      "pct": 85.7
+    },
+    {
+      "topic": "Hỏi giá / Mua bán",
+      "post_count": 1,
+      "pct": 7.1
+    },
+    {
+      "topic": "Tin tức / Chia sẻ",
+      "post_count": 1,
+      "pct": 7.1
+    }
+  ],
+  "spam_posts_count": 0,
+  "spam_post_ids": [],
+  "engagement": {
+    "avg_reactions": 0.4,
+    "avg_comments": 4000000.2,
+    "avg_shares": 0.0,
+    "top_posts": [
+      {
+        "post_id": "4365059883623928",
+        "author": "Thanh Lê",
+        "content_preview": "Lần đầu tiên đi event nhưng sao Babyboo bả xinh mà mặc đồ xu dị trời",
+        "reactions": 5,
+        "comments_count": 35000000,
+        "shares_count": 0,
+        "timestamp": "",
+        "post_url": "https://www.facebook.com/groups/riviu.official/posts/4365059883623928"
+      },
+      {
+        "post_id": "4365089543620962",
+        "author": "TungKim Family",
+        "content_preview": "Topic: Bạn từng hâm mộ người nổi tiếng nào cho đến khi phát hiện ra họ là kẻ xấu xa?",
+        "reactions": 1,
+        "comments_count": 1000000,
+        "shares_count": 0,
+        "timestamp": "",
+        "post_url": "https://www.facebook.com/groups/riviu.official/posts/4365089543620962"
+      },
+      {
+        "post_id": "4365035510293032",
+        "author": "My Phương",
+        "content_preview": "Dù k phải kol chuyên rv mỹ phẩm nhưng c Kaity share i4 tuýp kem mắt này xịn quá bây ơi, nhờ ẻm mà quầng thâm mắt của t m",
+        "reactions": 0,
+        "comments_count": 0,
+        "shares_count": 0,
+        "timestamp": "2026-03-11T04:10:00.595548+00:00",
+        "post_url": "https://www.facebook.com/groups/riviu.official/posts/4365035510293032"
+      },
+      {
+        "post_id": "4357084881088095",
+        "author": "Unknown",
+        "content_preview": "Ê lẹ bây ơi\n\nCROCS bth cả chẹo nay flashseo chỉ còn 2xx\n kìa",
+        "reactions": 0,
+        "comments_count": 1,
+        "shares_count": 0,
+        "timestamp": "",
+        "post_url": "https://www.facebook.com/groups/riviu.official/posts/4357084881088095"
+      },
+      {
+        "post_id": "4357077704422146",
+        "author": "Trương Gia Mẫn",
+        "content_preview": "T tưởng film này im hơi lặng tiếng lắm ai dè nay cháy vé luôn r bây ơi… See more",
+        "reactions": 0,
+        "comments_count": 1,
+        "shares_count": 0,
+        "timestamp": "",
+        "post_url": "https://www.facebook.com/groups/riviu.official/posts/4357077704422146"
+      },
+      {
+        "post_id": "4357076624422254",
+        "author": "Sài Gòn Trend Đì",
+        "content_preview": "Tui đoán con gà này nó chớttt vì tứk chứ không phải vì mất máoooo \nCre: sưu tầm",
+        "reactions": 0,
+        "comments_count": 1,
+        "shares_count": 0,
+        "timestamp": "",
+        "post_url": "https://www.facebook.com/groups/riviu.official/posts/4357076624422254"
+      },
+      {
+        "post_id": "4357061104423806",
+        "author": "Trần Ánh Linh",
+        "content_preview": "Top món mà t thấy đáng tiền vl\nTop 1: Sạc siêu mỏng Anker\nỐp vào mặt lưng đt vừa dùng vừa sạc được lun. 10 điểm k có như",
+        "reactions": 0,
+        "comments_count": 0,
+        "shares_count": 0,
+        "timestamp": "",
+        "post_url": "https://www.facebook.com/groups/riviu.official/posts/4357061104423806"
+      },
+      {
+        "post_id": "4357055934424323",
+        "author": "Trúc Ly",
+        "content_preview": "POV: trùng sinh t kiếm đc son dưỡng màu rep 1:1 vs cha nel\ntrời ơi, có thật sự là son dưỡng không, sao cái màu bá cháy b",
+        "reactions": 0,
+        "comments_count": 0,
+        "shares_count": 0,
+        "timestamp": "",
+        "post_url": "https://www.facebook.com/groups/riviu.official/posts/4357055934424323"
+      },
+      {
+        "post_id": "4357052571091326",
+        "author": "Hoàng Kim Quốc",
+        "content_preview": "Từ ngày biết đến lọ keo này là t bỏ xó keo 502 lun tr quơi :)))) nó dính chắc mà nhanh khô nựa",
+        "reactions": 0,
+        "comments_count": 0,
+        "shares_count": 0,
+        "timestamp": "",
+        "post_url": "https://www.facebook.com/groups/riviu.official/posts/4357052571091326"
+      },
+      {
+        "post_id": "4356930844436832",
+        "author": "Nhu Uyen",
+        "content_preview": "Bún nước tương tiệm này ở Phú Nhuận peak kinh khủng\nVừa rẻ vừa nhiều\nMusty tryyyyyyyyyyy\nTiệm là nhà , 63/14 Lê Văn Sỹ, ",
+        "reactions": 0,
+        "comments_count": 0,
+        "shares_count": 0,
+        "timestamp": "",
+        "post_url": "https://www.facebook.com/groups/riviu.official/posts/4356930844436832"
+      }
+    ],
+    "best_hours": [
+      4
+    ],
+    "content_type_breakdown": {
+      "link": {
+        "count": 1,
+        "avg_reactions": 0.0
+      },
+      "text": {
+        "count": 12,
+        "avg_reactions": 0.5
+      },
+      "video": {
+        "count": 1,
+        "avg_reactions": 0.0
+      }
+    }
+  },
+  "trends": {
+    "rising_keywords": [],
+    "declining_keywords": [],
+    "viral_posts": [
+      "4365035510293032"
+    ],
+    "weekly_dominant_topic": {}
+  },
+  "schema_version": "1.0"
+}

@@ -1,0 +1,54 @@
+# Secrets & credentials
+agents/main/agent/auth-profiles.json
+**/sessions/fb_session.json
+**/.env
+**/credentials.json
+**/token_usage.jsonl
+credentials/
+identity/
+devices/
+
+# Session logs (contain private conversations)
+agents/main/sessions/*.jsonl
+logs/*.jsonl
+
+# Telegram pairing (private tokens)
+**/telegram-*.json
+
+# SQLite databases (too large, local data)
+**/*.db
+**/*.db-journal
+**/*.db-wal
+**/*.db-shm
+
+# Cache & temp
+**/__pycache__/
+**/*.pyc
+**/.cache/
+**/node_modules/
+**/.venv/
+**/venv/
+
+# OS files
+Thumbs.db
+.DS_Store
+nul
+
+# Playwright browsers
+**/playwright-browsers/
+
+# Debug artifacts
+**/debug_screenshots/
+**/*_test.txt
+**/*_debug*.txt
+**/*_live*.txt
+**/search_err.txt
+**/debug_test.txt
+
+# Large exports
+**/*.csv
+**/data/*.json
+
+# Memory files (private)
+workspace/memory/*.md
+workspace/MEMORY.md

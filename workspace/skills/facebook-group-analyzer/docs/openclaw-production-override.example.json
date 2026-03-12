@@ -1,0 +1,6 @@
+{
+  "_comment": "Merge this into OpenClaw root openclaw.json to let the agent run Python skills (e.g. facebook-group-analyzer) from chat. tools.profile 'full' or 'automation' enables native/shell; 'messaging' does not.",
+  "tools": {
+    "profile": "full"
+  }
+}

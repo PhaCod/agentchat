@@ -1,0 +1,32 @@
+# Secrets and env
+.env
+.env.local
+*.local
+
+# Session and credentials (never commit)
+sessions/
+config/config.json
+
+# Data (optional: commit sample, ignore large dumps)
+# data/posts/*.json
+# data/reports/*.json
+# data/exports/*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+venv/
+.venv/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Playwright
+playwright-report/
+test-results/
+.blob*

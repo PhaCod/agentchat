@@ -1,0 +1,11 @@
+@echo off
+rem OpenClaw Gateway (v2026.3.2)
+set "TMPDIR=C:\Users\dangt\AppData\Local\Temp"
+set "PATH=C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files\OpenLogic\jdk-11.0.19.7-hotspot\bin;c:\msys64\mingw64;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;C:\Program Files\Cloudflare\Cloudflare WARP\;C:\Program Files\Java\jdk-17\bin;%%HADOOP%%\bin;%%SPARK_HOME%%\bin;C:\Program Files\ibm\gsk8\lib64;C:\Program Files (x86)\ibm\gsk8\lib;C:\PROGRA~1\IBM\SQLLIB\BIN;C:\PROGRA~1\IBM\SQLLIB\FUNCTION;C:\PROGRA~1\IBM\SQLLIB\SAMPLES\REPL;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\nodejs\;C:\Users\dangt\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\dangt\AppData\Local\Programs\Python\Python310\;C:\Users\dangt\AppData\Local\Microsoft\WindowsApps;C:\Users\dangt\AppData\Local\Programs\Microsoft VS Code\bin;C:\msys64\mingw64\bin;C:\Users\dangt\AppData\Local\Android\Sdk\platform-tools;C:\Users\dangt\AppData\Local\GitHubDesktop\bin;C:\Users\dangt\AppData\Local\Programs\Ollama;C:\Users\dangt\AppData\Local\Programs\cursor\resources\app\bin;C:\hadoop\bin\bin;%%SPARK_HOME%%\bin;C:\Program Files\Java\jdk-25\bin;C:\Users\dangt\AppData\Local\Programs\Antigravity\bin;D:\Kiro\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Users\dangt\AppData\Roaming\npm"
+set "OPENCLAW_GATEWAY_PORT=18789"
+set "OPENCLAW_GATEWAY_TOKEN=09ffb4a11786863f560f7ed6e4ea53ef71001b2a60a368aa"
+set "OPENCLAW_SYSTEMD_UNIT=openclaw-gateway.service"
+set "OPENCLAW_SERVICE_MARKER=openclaw"
+set "OPENCLAW_SERVICE_KIND=gateway"
+set "OPENCLAW_SERVICE_VERSION=2026.3.2"
+"C:\Program Files\nodejs\node.exe" C:\Users\dangt\AppData\Roaming\npm\node_modules\openclaw\dist\index.js gateway --port 18789

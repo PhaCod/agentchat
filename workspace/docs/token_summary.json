@@ -1,0 +1,206 @@
+{
+  "period_days": 30,
+  "cutoff": "2026-02-10",
+  "by_date": {
+    "2026-03-03": {
+      "input": 230588,
+      "output": 12253,
+      "total": 242841,
+      "cost": 0.099897625,
+      "by_tool": {
+        "agent": {
+          "total": 221725,
+          "cost": 0.092889625
+        },
+        "tool:web_search": {
+          "total": 21116,
+          "cost": 0.0070079999999999995
+        }
+      }
+    },
+    "2026-03-04": {
+      "input": 332405,
+      "output": 10154,
+      "total": 342559,
+      "cost": 0.12942777500000002,
+      "by_tool": {
+        "agent": {
+          "total": 182359,
+          "cost": 0.07665005
+        },
+        "tool:read": {
+          "total": 17857,
+          "cost": 0.0057113
+        },
+        "exec": {
+          "total": 119571,
+          "cost": 0.0397562
+        },
+        "tool:process": {
+          "total": 22772,
+          "cost": 0.007310224999999999
+        }
+      }
+    },
+    "2026-03-05": {
+      "input": 150538,
+      "output": 1946,
+      "total": 152484,
+      "cost": 0.053954449999999994,
+      "by_tool": {
+        "agent": {
+          "total": 93396,
+          "cost": 0.03426275
+        },
+        "tool:read": {
+          "total": 15824,
+          "cost": 0.005613999999999999
+        },
+        "skill:facebook-group-analyzer": {
+          "total": 21232,
+          "cost": 0.0070846
+        },
+        "tool:process": {
+          "total": 22032,
+          "cost": 0.0069930999999999995
+        }
+      }
+    },
+    "2026-03-06": {
+      "input": 58703,
+      "output": 650,
+      "total": 59353,
+      "cost": 0.019311125,
+      "by_tool": {
+        "exec": {
+          "total": 14339,
+          "cost": 0.0048671
+        },
+        "agent": {
+          "total": 30292,
+          "cost": 0.009805225
+        },
+        "tool:process": {
+          "total": 14722,
+          "cost": 0.0046388
+        }
+      }
+    },
+    "2026-03-11": {
+      "input": 3368953,
+      "output": 23083,
+      "total": 3588260,
+      "cost": -146171.899011125,
+      "by_tool": {
+        "agent": {
+          "total": 1759091,
+          "cost": -146172.523846175
+        },
+        "tool:read": {
+          "total": 279807,
+          "cost": 0.10064104999999998
+        },
+        "skill:facebook-group-analyzer": {
+          "total": 765057,
+          "cost": 0.26781712499999993
+        },
+        "tool:process": {
+          "total": 677184,
+          "cost": 0.218920125
+        },
+        "tool:session_status": {
+          "total": 39872,
+          "cost": 0.012073799999999999
+        },
+        "skill:market-research": {
+          "total": 67249,
+          "cost": 0.025382949999999998
+        }
+      }
+    },
+    "2026-03-12": {
+      "input": 248005,
+      "output": 1582,
+      "total": 249587,
+      "cost": 0.082040425,
+      "by_tool": {
+        "tool:read": {
+          "total": 100492,
+          "cost": 0.032999425
+        },
+        "agent": {
+          "total": 17300,
+          "cost": 0.006643499999999999
+        },
+        "skill:facebook-group-analyzer": {
+          "total": 22344,
+          "cost": 0.0089902
+        },
+        "tool:process": {
+          "total": 109451,
+          "cost": 0.0334073
+        }
+      }
+    }
+  },
+  "by_tool": {
+    "agent": {
+      "input": 2071845,
+      "output": 36094,
+      "total": 2304163,
+      "cost": -146172.303595025
+    },
+    "exec": {
+      "input": 131965,
+      "output": 1945,
+      "total": 133910,
+      "cost": 0.044623300000000005
+    },
+    "skill:facebook-group-analyzer": {
+      "input": 802178,
+      "output": 6455,
+      "total": 808633,
+      "cost": 0.28389192499999993
+    },
+    "skill:market-research": {
+      "input": 67077,
+      "output": 172,
+      "total": 67249,
+      "cost": 0.025382949999999998
+    },
+    "tool:process": {
+      "input": 844288,
+      "output": 1873,
+      "total": 846161,
+      "cost": 0.27126954999999997
+    },
+    "tool:read": {
+      "input": 411208,
+      "output": 2772,
+      "total": 413980,
+      "cost": 0.144965775
+    },
+    "tool:session_status": {
+      "input": 39821,
+      "output": 51,
+      "total": 39872,
+      "cost": 0.012073799999999999
+    },
+    "tool:web_search": {
+      "input": 20810,
+      "output": 306,
+      "total": 21116,
+      "cost": 0.0070079999999999995
+    }
+  },
+  "totals": {
+    "input": 4389192,
+    "output": 49668,
+    "total": 4635084,
+    "cost": -146171.51438
+  },
+  "extrapolate_30d": {
+    "total": 23175420,
+    "cost": -730857.571899
+  }
+}

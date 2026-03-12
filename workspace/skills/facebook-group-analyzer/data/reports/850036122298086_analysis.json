@@ -1,0 +1,169 @@
+{
+  "group_id": "850036122298086",
+  "analyzed_at": "2026-03-11T07:02:48.695690+00:00",
+  "total_posts": 8,
+  "posts_with_content": 8,
+  "posts_excluded_from_text_analysis": 0,
+  "date_range": {
+    "from": "2026-03-10",
+    "to": "2026-03-11"
+  },
+  "sentiment": {
+    "positive": 1,
+    "neutral": 7,
+    "negative": 0,
+    "distribution_pct": {
+      "positive": 12.5,
+      "neutral": 87.5,
+      "negative": 0.0
+    }
+  },
+  "top_keywords": [
+    {
+      "keyword": "mình",
+      "count": 5
+    },
+    {
+      "keyword": "mua",
+      "count": 3
+    },
+    {
+      "keyword": "bánh",
+      "count": 3
+    },
+    {
+      "keyword": "hoặc",
+      "count": 3
+    }
+  ],
+  "topics": [
+    {
+      "topic": "Hỏi giá / Mua bán",
+      "post_count": 6,
+      "pct": 75.0
+    },
+    {
+      "topic": "Khác",
+      "post_count": 2,
+      "pct": 25.0
+    }
+  ],
+  "spam_posts_count": 0,
+  "spam_post_ids": [],
+  "engagement": {
+    "avg_reactions": 0.0,
+    "avg_comments": 11000000.9,
+    "avg_shares": 0.0,
+    "top_posts": [
+      {
+        "post_id": "1922816601686694",
+        "author": "Unknown",
+        "content_preview": "Mua j ib",
+        "reactions": 0,
+        "comments_count": 1,
+        "shares_count": 0,
+        "timestamp": "2026-03-11T04:01:39.812786+00:00",
+        "post_url": "https://www.facebook.com/groups/850036122298086/posts/1922816601686694"
+      },
+      {
+        "post_id": "1922863285015359",
+        "author": "Nguyễn Long",
+        "content_preview": "1tr có bánh trước 5c chéo giao tận nơi mua nhắn anh",
+        "reactions": 0,
+        "comments_count": 41000000,
+        "shares_count": 0,
+        "timestamp": "2026-03-11T06:01:40.153375+00:00",
+        "post_url": "https://www.facebook.com/groups/850036122298086/posts/1922863285015359"
+      },
+      {
+        "post_id": "1922759998359021",
+        "author": "Trần Hữu Trí",
+        "content_preview": "Tìm xác m133 k bánh còn keng",
+        "reactions": 0,
+        "comments_count": 4,
+        "shares_count": 0,
+        "timestamp": "2026-03-11T02:01:40.406499+00:00",
+        "post_url": "https://www.facebook.com/groups/850036122298086/posts/1922759998359021"
+      },
+      {
+        "post_id": "1922853088349712",
+        "author": "Minh Thien",
+        "content_preview": "Tìm gắp cap bánh nhỏ 65cm hoặc gấp zin ibb kv can tho",
+        "reactions": 0,
+        "comments_count": 23000000,
+        "shares_count": 0,
+        "timestamp": "2026-03-11T06:01:40.625675+00:00",
+        "post_url": "https://www.facebook.com/groups/850036122298086/posts/1922853088349712"
+      },
+      {
+        "post_id": "1922231538411867",
+        "author": "Phi Nguyễn",
+        "content_preview": "2k 1m8\n100s 1m2… See more",
+        "reactions": 0,
+        "comments_count": 24000000,
+        "shares_count": 0,
+        "timestamp": "2026-03-10T09:01:40.917598+00:00",
+        "post_url": "https://www.facebook.com/groups/850036122298086/posts/1922231538411867"
+      },
+      {
+        "post_id": "1922838848351136",
+        "author": "Đỗ Đạt",
+        "content_preview": "Kiếm 30s cũ",
+        "reactions": 0,
+        "comments_count": 2,
+        "shares_count": 0,
+        "timestamp": "2026-03-11T05:01:47.522142+00:00",
+        "post_url": "https://www.facebook.com/groups/850036122298086/posts/1922838848351136"
+      },
+      {
+        "post_id": "1922889708346050",
+        "author": "Unknown",
+        "content_preview": "Cần gl xe khc hoặc bán kv TPHCM q6",
+        "reactions": 0,
+        "comments_count": 0,
+        "shares_count": 0,
+        "timestamp": "",
+        "post_url": "https://www.facebook.com/groups/850036122298086/posts/1922889708346050"
+      },
+      {
+        "post_id": "1922889108346110",
+        "author": "+3",
+        "content_preview": "-- Mình có chiếc Vinfast Tempest, mọi ngày chạy bình thường, sáng mình lấy xe đi thì bị lỗi, mở khóa là xe tự đóng CP, m",
+        "reactions": 0,
+        "comments_count": 0,
+        "shares_count": 0,
+        "timestamp": "",
+        "post_url": "https://www.facebook.com/groups/850036122298086/posts/1922889108346110"
+      }
+    ],
+    "best_hours": [
+      4,
+      6,
+      2,
+      9,
+      5
+    ],
+    "content_type_breakdown": {
+      "text": {
+        "count": 8,
+        "avg_reactions": 0.0
+      }
+    }
+  },
+  "trends": {
+    "rising_keywords": [],
+    "declining_keywords": [],
+    "viral_posts": [
+      "1922231538411867",
+      "1922759998359021",
+      "1922816601686694",
+      "1922838848351136",
+      "1922863285015359",
+      "1922853088349712"
+    ],
+    "weekly_dominant_topic": {
+      "2026-W11": "Hỏi giá / Mua bán"
+    }
+  },
+  "schema_version": "1.0"
+}
