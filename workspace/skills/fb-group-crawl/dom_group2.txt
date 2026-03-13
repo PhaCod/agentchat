@@ -1,0 +1,6 @@
+2026-03-05 17:37:46,122 [INFO] db: Database initialized at C:\Users\dangt\.openclaw\workspace\skills\fb-group-crawl\data\fb_posts.db
+2026-03-05 17:37:47,492 [INFO] scraper: Session loaded from sessions\fb_session.json
+2026-03-05 17:37:47,492 [INFO] scraper: Navigating to https://www.facebook.com/groups/1125804114216204/?sorting_setting=CHRONOLOGICAL
+2026-03-05 17:37:53,906 [INFO] scraper: Page URL: https://www.facebook.com/groups/1125804114216204/?sorting_setting=CHRONOLOGICAL
+2026-03-05 17:38:43,948 [INFO] scraper: No new posts after 8 scrolls. Stopping.
+2026-03-05 17:38:44,351 [INFO] scraper: Done. Collected 0 posts from 1125804114216204.

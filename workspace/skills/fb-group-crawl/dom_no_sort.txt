@@ -1,0 +1,6 @@
+2026-03-05 17:36:23,876 [INFO] db: Database initialized at C:\Users\dangt\.openclaw\workspace\skills\fb-group-crawl\data\fb_posts.db
+2026-03-05 17:36:25,479 [INFO] scraper: Session loaded from sessions\fb_session.json
+2026-03-05 17:36:25,479 [INFO] scraper: Navigating to https://www.facebook.com/groups/riviu.official/
+2026-03-05 17:36:32,095 [INFO] scraper: Page URL: https://www.facebook.com/groups/riviu.official/
+2026-03-05 17:37:25,060 [INFO] scraper: No new posts after 8 scrolls. Stopping.
+2026-03-05 17:37:25,422 [INFO] scraper: Done. Collected 0 posts from riviu.official.

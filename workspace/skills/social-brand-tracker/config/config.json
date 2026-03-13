@@ -1,0 +1,28 @@
+{
+  "scraper": {
+    "headless": false,
+    "scroll_delay_ms": 2500,
+    "max_posts": 50,
+    "max_comments_per_post": 30,
+    "days_back": 7,
+    "scrape_timeout_s": 120
+  },
+  "facebook": {
+    "email": "",
+    "password": "",
+    "session_file": "sessions/fb_session.json"
+  },
+  "brands": [
+    {"name": "HMK", "aliases": ["HM Kors", "hmk_official"], "keywords": ["hmk", "hm kors"]},
+    {"name": "Shopee", "aliases": ["shopee.vn"], "keywords": ["shopee", "spee"]}
+  ],
+  "analysis": {
+    "influencer_threshold": 10000,
+    "trend_window_hours": 24,
+    "min_keyword_freq": 3
+  },
+  "gemini": {
+    "model": "gemini-2.5-flash",
+    "language": "vi"
+  }
+}

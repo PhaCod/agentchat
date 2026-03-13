@@ -1,0 +1,6 @@
+{
+  "slug": "social-brand-tracker",
+  "name": "Social Brand Tracker",
+  "version": "1.0.0",
+  "description": "Crawl Facebook Groups/Pages, analyze brand mentions, sentiment, trends, pain points, influencers. Full social listening pipeline."
+}

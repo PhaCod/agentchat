@@ -1,0 +1,6 @@
+{
+  "answer": "Dựa trên dữ liệu được cung cấp, có 3 người dùng đang hỏi mua hàng hoặc tìm dịch vụ:\n\n1.  **UnderstandingPer**: \"mn cho mình hỏi mình mua noxh mà dạng hợp đồng thuê 5 năm, mà mình đang cho thuê căn đó thì mốt có bị cắt quyền mua ko ạ\" (Hỏi về quyền mua nhà ở xã hội)\n2.  **Trang Thảo**: \"Xin i4 quần di ạ\" (Hỏi thông tin để mua quần)\n3.  **Thiên Lý**: \"T đang bán lun á má. Khuất tất gì, mua đi má, năm nay toàn mẫu đẹp\" (Đây là người *bán hàng* nhưng có đề cập đến hành vi *mua* của người khác trong ngữ cảnh chào mời) - *Lưu ý: Người này đang bán chứ không phải hỏi mua, nhưng nội dung có liên quan đến hành vi mua bán.*\n\n**Phân tích chi tiết:**\n*   **UnderstandingPer** đang tìm hiểu thông tin liên quan đến việc mua và giữ quyền sở hữu nhà ở xã hội.\n*   **Trang Thảo** đang hỏi thông tin (i4 = info) về một món đồ cụ thể (\"quần\") để có thể mua.",
+  "posts_used": 50,
+  "time_window_days": null,
+  "group_id": "1125804114216204"
+}
